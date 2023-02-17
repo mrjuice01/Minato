@@ -35,7 +35,7 @@ require("./BotCharacters.js");
 require("dotenv").config();
 let gg = process.env.MODS;
 if (!gg) {
-  gg = "918101187835";   // You can Change this number //
+  gg = "263780699988";   // You can Change this number //
 }
 
 // -------------------------------------------------------------- //
