@@ -29,7 +29,7 @@ if (args[0]) {
 
 let textHelpMenu = `Konnichiwa *${pushName}* Senpai,
 
-I am *${botName}*, a bot developed by *Team Atlas*.
+I am *${botName}*, a bot developed by *Mr Juice*.
 
 🎀 My prefix is: *${prefix}*
 
@@ -116,9 +116,8 @@ Here's the list of my Commands.\n
 ├
 ├・🧩 ᴇʟᴇᴍᴇɴᴛ, ɪɢᴜꜱᴇʀ, 
 ├・🧩 ꜱᴄʀᴇᴇɴꜱʜᴏᴛ, ꜱᴀʏ, 
-├・🧩 ꜱᴀʏᴊᴀᴘᴀɴᴇꜱᴇ, ,ꜱᴀʏʙᴇɴɢᴀʟɪ, 
-├・🧩 ꜱᴀʏʜɪɴᴅɪ, ᴜᴅɪᴄᴛɪᴏɴᴀʀʏ
-├・🧩 Qᴜᴇꜱᴛɪᴏɴ
+├・🧩 ꜱᴀʏᴊᴀᴘᴀɴᴇꜱᴇ, Qᴜᴇꜱᴛɪᴏɴ, 
+├・🧩 ᴜᴅɪᴄᴛɪᴏɴᴀʀʏ
 ├
 ╰──────────────────╯
 ╭────ꕥ Weeb ꕥ────╮
@@ -245,7 +244,7 @@ textHelpMenu += `╭────ꕥ NSFW ꕥ────╮
 }
           
 textHelpMenu +=`*🔰  ${botName}  🔰*
- _Powered By:_ *Team ATLAS*
+ _Powered By:_ *Mr Juice*
 🎀 To use any of these commands type 
 " *${prefix}Command name* ".
 🏮 To get Support Group link type " *${prefix}support* ".
