@@ -40,9 +40,9 @@ let textHelpMenu = `╭─✧
 ┃▸・
 ┃▸・🎀 My prefix is: *${prefix}*
 ┃▸・
-┃▸・Support:* ${suppL}*
+┃▸・Support:* https://chat.whatsapp.com/GRuUvhCqhHK08msKMadAji
 ┃▸・
-┃▸・Owner: @${ownerList[i]}
+┃▸・Owner: @263780699988
 ┃▸・
 ┃▸・Here's the list of my Commands.\n
 ┃
