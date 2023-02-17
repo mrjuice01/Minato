@@ -5,6 +5,6 @@ module.exports = {
     react: "🧣",
     category: "Core",
     start: async(Miku, m,{pushName,prefix}) => {
-        await Miku.sendMessage(m.from,{text:`Konichiwa *${pushName}* senpai, I am *${botName}* bot. Made By Mr Juice type *${prefix}help* to get my full command list.`},{quoted:m})
+        await Miku.sendMessage(m.from,{text:`Konichiwa *${pushName}* senpai, I am *Minato* bot. Made By Mr Juice type *${prefix}help* to get my full command list.`},{quoted:m})
     }
 }

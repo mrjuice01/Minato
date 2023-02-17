@@ -36,13 +36,13 @@ let textHelpMenu = `╭─✧
 ╰━ 𝐁𝐨𝐭 𝐈𝐧𝐟𝐨🤔       
 ┃
 ┃▸・
-┃▸・I am *${botName}*, a bot by *•||ᴍʀ ᴊᴜɪᴄᴇ||•*.
+┃▸・I am *Mina*, a bot by *•||ᴍʀ ᴊᴜɪᴄᴇ||•*.
 ┃▸・
 ┃▸・🎀 My prefix is: *${prefix}*
 ┃▸・
-┃▸・Support:* https://chat.whatsapp.com/GRuUvhCqhHK08msKMadAji
+┃▸・Support:* *https://chat.whatsapp.com/GRuUvhCqhHK08msKMadAji*
 ┃▸・
-┃▸・Owner: @263780699988
+┃▸・Owner: wa.me/263780699988
 ┃▸・
 ┃▸・Here's the list of my Commands.\n
 ┃
@@ -256,7 +256,7 @@ textHelpMenu += `╭────ꕥ NSFW ꕥ────╮
 ╰──────────────────╯\n\n`
 }
           
-textHelpMenu +=`*🔰  ${botName}  🔰*
+textHelpMenu +=`*Minato*
  _Powered By:_ *Mr Juice*
 🎀 To use any of these commands type 
 " *${prefix}Command name* ".
